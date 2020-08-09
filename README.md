@@ -1,5 +1,4 @@
 # Notes
-Compilations Of Notes
 
 ## Deep Learning
 

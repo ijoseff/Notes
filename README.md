@@ -20,7 +20,7 @@
 
 <img src="https://github.com/ijoseff/Notes/blob/master/Deeplearning.ai/Deep%20Learning%20Notes-09.jpg?raw=true" />
 
-<img src="https://github.com/ijoseff/Notes/blob/master/Deeplearning.ai/Deep%20Learning%20Notes-010.jpg?raw=true" />
+<img src="https://github.com/ijoseff/Notes/blob/master/Deeplearning.ai/Deep%20Learning%20Notes-10.jpg?raw=true" />
 
 <img src="https://github.com/ijoseff/Notes/blob/master/Deeplearning.ai/Deep%20Learning%20Notes-11.jpg?raw=true" />
 

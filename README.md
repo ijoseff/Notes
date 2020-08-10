@@ -1,4 +1,4 @@
-# Notes - Deep Learning
+# Deep Learning
 
 <img src="https://github.com/ijoseff/Notes/blob/master/Deeplearning.ai/Deep%20Learning%20Notes-01.jpg?raw=true" />
 

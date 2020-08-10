@@ -1,8 +1,5 @@
 # Notes
 
-<h1>Table of Contents<span class="tocSkip"></span></h1>
-<div class="toc"><ul class="toc-item"><li><span><a href="#Deep-Learning" data-toc-modified-id="Deep-Learning-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Deep Learning</a></span></li></ul></div>
-
 ## Deep Learning
 
 <img src="https://github.com/ijoseff/Notes/blob/master/Deeplearning.ai/Deep%20Learning%20Notes-01.jpg?raw=true" />
